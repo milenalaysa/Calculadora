@@ -1,2 +1,2 @@
 # calculadora
-  calculadora simples com a finalidade de treinar edconsolidar conceitos básicos do Javascript
+  calculadora simples com a finalidade de treinar e consolidar conceitos básicos do Javascript
